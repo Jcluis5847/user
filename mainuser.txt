@@ -1,2 +1,1 @@
 #EXTLIST: https://raw.githubusercontent.com/Jcluis5847/user/refs/heads/main/userfree.txt
-#EXTLIST: https://raw.githubusercontent.com/Jcluis5847/servicio/refs/heads/main/user
