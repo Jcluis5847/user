@@ -5,7 +5,7 @@
 #INFDISPLAY-NAME: Jose Luis
 #USERPIC: https://github.com/Jcluis5847/userpic/blob/main/luismdp8@gmail.com.png?raw=true
 #ESTADO: activado
-#DIRIP: 186.122.41.216
+#DIRIP: allip
 #EXPI: 12:00 31/12/2030
 #AUTO-LOGIN: True
 //Group-Tittle
