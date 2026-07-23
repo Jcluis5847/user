@@ -1,0 +1,308 @@
+//User/NombredeUsuario/Estado/IPFija/FechadeExpiracion/Contenido:Noticias-Deportes-Infantiles-Series-Musica-Adultos
+//Luis
+<User
+#INF-USER:Luismdp8@gmail.com
+#INFDISPLAY-NAME: Jose Luis
+#USERPIC: https://github.com/Jcluis5847/userpic/blob/main/luismdp8@gmail.com.png?raw=true
+#ESTADO: activado
+#DIRIP: 186.122.41.216
+#EXPI: 12:00 31/12/2030
+#AUTO-LOGIN: True
+//Group-Tittle
+#Noticias: True
+#Deportes: True
+#Infantiles: True
+#Series: True
+#Musica: True
+#tvg-lock: True
+#ID (Luismdp8@gmail.com:40A944b677.)
+>
+//Usuario de prueba
+<User
+#INF-USER:Test
+#INFDISPLAY-NAME:Usuario de Pruebas
+#USERPIC: https://github.com/Jcluis5847/userpic/blob/main/naniel-@hotmail.com.jpg?raw=true
+#ESTADO: activado
+#DIRIP: allip
+#EXPI: 12:00 30/12/2026
+#AUTO-LOGIN: True
+//Group-Tittle
+#Noticias: True
+#Deportes: false
+#Infantiles: True
+#Series: False
+#Musica: False
+#tvg-lock: True
+#ID (test:1234)
+>
+//Daniel Alzogaray
+<User
+#INF-USER:naniel-@hotmail.com
+#INFDISPLAY-NAME: Daniel Alzogaray
+#USERPIC: https://github.com/Jcluis5847/userpic/blob/main/naniel-@hotmail.com.jpg?raw=true
+#ESTADO: activado
+#DIRIP: allip
+#EXPI: 23:59 31/12/2050
+#AUTO-LOGIN: False
+//Group-Tittle
+#Noticias: True
+#Deportes: True
+#Infantiles: True
+#Series: True
+#Musica: True
+#tvg-lock: True
+#ID (:)
+>
+//Leandro Malespina
+<User
+#INF-USER:malespinaleandro37@gmail.com
+#INFDISPLAY-NAME: Leandro Malespina
+#USERPIC: https://github.com/Jcluis5847/userpic/blob/main/malespinaleandro37@gmail.com.jpg?raw=true
+#ESTADO: activado
+#DIRIP: allip
+#EXPI: 23:59 31/12/2050
+#AUTO-LOGIN: False
+//Group-Tittle
+#Noticias: True
+#Deportes: True
+#Infantiles: True
+#Series: True
+#Musica: True
+#tvg-lock: True
+#ID (:)
+>
+
+<User
+#INF-USER:Rodritorres
+#INFDISPLAY-NAME: Rodrigo Pavon
+#USERPIC: https://github.com/Jcluis5847/userpic/blob/main/Rodritorres.jpg?raw=true
+#ESTADO: activado
+#DIRIP: allip
+#EXPI: 23:59 31/12/2050
+#AUTO-LOGIN: True
+//Group-Tittle
+#Noticias: True
+#Deportes: True
+#Infantiles: True
+#Series: True
+#Musica: True
+#tvg-lock: True
+#ID (Rodritorres:12345678)
+>
+
+<User
+#INF-USER:cs514662@gmail.com
+#INFDISPLAY-NAME: Camila Sanchez
+#USERPIC: https://github.com/Jcluis5847/userpic/blob/main/Rodritorres.jpg?raw=true
+#ESTADO: activado
+#DIRIP: allip
+#EXPI: 23:59 31/12/2050
+#AUTO-LOGIN: True
+//Group-Tittle
+#Noticias: True
+#Deportes: True
+#Infantiles: True
+#Series: True
+#Musica: True
+#tvg-lock: True
+#ID (cs514662@gmail.com:12345678)
+>
+
+<User
+#INF-USER:lore93373@gmail.com
+#INFDISPLAY-NAME: Laura Garcia
+#USERPIC: https://github.com/Jcluis5847/userpic/blob/main/lore93373@gmail.com.jpg?raw=true
+#ESTADO: activado
+#DIRIP: allip
+#EXPI: 23:59 31/12/2050
+#AUTO-LOGIN: True
+//Group-Tittle
+#Noticias: True
+#Deportes: True
+#Infantiles: True
+#Series: True
+#Musica: True
+#tvg-lock: True
+#ID (lore93373@gmail.com:12345678)
+>
+
+<User
+#INF-USER:Familia
+#INFDISPLAY-NAME: Familia
+#USERPIC: https://github.com/Jcluis5847/userpic/blob/main/Familia.jpg?raw=true
+#ESTADO: activado
+#DIRIP: allip
+#EXPI: 23:59 31/12/2050
+#AUTO-LOGIN: True
+//Group-Tittle
+#Noticias: True
+#Deportes: True
+#Infantiles: True
+#Series: True
+#Musica: True
+#tvg-lock: True
+#ID (Familia:12345678)
+>
+
+<User
+#INF-USER:1asinarimonica5@gmail.com
+#INFDISPLAY-NAME: Monica Asinari
+#USERPIC: https://github.com/Jcluis5847/userpic/blob/main/1asinarimonica5@gmail.com.jpg?raw=true
+#ESTADO: activado
+#DIRIP: allip
+#EXPI: 23:59 31/12/2050
+#AUTO-LOGIN: True
+//Group-Tittle
+#Noticias: True
+#Deportes: True
+#Infantiles: True
+#Series: True
+#Musica: True
+#tvg-lock: True
+#ID (1asinarimonica5@gmail.com:12345678)
+>
+
+<User
+#INF-USER:fernandez.and@hotmail.com 
+#INFDISPLAY-NAME: Andrea Fernandez
+#USERPIC: https://github.com/Jcluis5847/userpic/blob/main/fernandez.and@hotmail.com.jpg?raw=true
+#ESTADO: activado
+#DIRIP: allip
+#EXPI: 23:59 31/12/2050
+#AUTO-LOGIN: True
+//Group-Tittle
+#Noticias: True
+#Deportes: True
+#Infantiles: True
+#Series: True
+#Musica: True
+#tvg-lock: True
+#ID (fernandez.and@hotmail.com:12345678)
+>
+
+<User
+#INF-USER:manuu.862412@gmail.com
+#INFDISPLAY-NAME: Manuel Muñoz
+#USERPIC: https://github.com/Jcluis5847/userpic/blob/main/manuu.862412@gmail.com.jpg?raw=true
+#ESTADO: activado
+#DIRIP: allip
+#EXPI: 23:59 31/12/2050
+#AUTO-LOGIN: True
+//Group-Tittle
+#Noticias: True
+#Deportes: True
+#Infantiles: True
+#Series: True
+#Musica: True
+#tvg-lock: True
+#ID (manuu.862412@gmail.com:12345678)
+>
+
+<User
+#INF-USER:mmaljac88@gmail.com
+#INFDISPLAY-NAME: Matias
+#USERPIC: https://github.com/Jcluis5847/userpic/blob/main/mmaljac88@gmail.com.jpg?raw=true
+#ESTADO: activado
+#DIRIP: 201.179.29.217
+#EXPI: 23:59 31/12/2050
+#AUTO-LOGIN: True
+//Group-Tittle
+#Noticias: True
+#Deportes: True
+#Infantiles: True
+#Series: True
+#Musica: True
+#tvg-lock: True
+#ID (mmaljac88@gmail.com:12345678)
+>
+
+<User
+#INF-USER:pstoto@hotmail.com
+#INFDISPLAY-NAME: Pablo
+#USERPIC: https://github.com/Jcluis5847/userpic/blob/main/pstoto@hotmail.com.jpg?raw=true
+#ESTADO: activado
+#DIRIP: allip
+#EXPI: 23:59 31/12/2050
+#AUTO-LOGIN: True
+//Group-Tittle
+#Noticias: True
+#Deportes: True
+#Infantiles: True
+#Series: True
+#Musica: True
+#tvg-lock: True
+#ID (pstoto@hotmail.com:12345678)
+>
+
+<User
+#INF-USER:steef3741@gmail.com
+#INFDISPLAY-NAME: Brenda Mendoza
+#USERPIC: https://github.com/Jcluis5847/userpic/blob/main/steef3741@gmail.com.jpg?raw=true
+#ESTADO: activado
+#DIRIP: allip
+#EXPI: 23:59 31/12/2050
+#AUTO-LOGIN: True
+//Group-Tittle
+#Noticias: True
+#Deportes: True
+#Infantiles: True
+#Series: True
+#Musica: True
+#tvg-lock: True
+#ID (steef3741@gmail.com:12345678)
+>
+
+<User
+#INF-USER:alejandrojavierluna8@gmail.com
+#INFDISPLAY-NAME: Brenda Mendoza
+#USERPIC: https://github.com/Jcluis5847/userpic/blob/main/alejandrojavierluna8@gmail.com.jpg?raw=true
+#ESTADO: activado
+#DIRIP: allip
+#EXPI: 23:59 31/12/2050
+#AUTO-LOGIN: True
+//Group-Tittle
+#Noticias: True
+#Deportes: True
+#Infantiles: True
+#Series: True
+#Musica: True
+#tvg-lock: True
+#ID (alejandrojavierluna8@gmail.com:12345678)
+>
+
+<User
+#INF-USER:Silvina230573diaz@gmail.com
+#INFDISPLAY-NAME: Silvina Diaz
+#USERPIC: https://github.com/Jcluis5847/userpic/blob/main/Silvina230573diaz@gmail.com.jpeg?raw=true
+#ESTADO: activado
+#DIRIP: allip
+#EXPI: 23:59 31/12/2050
+#AUTO-LOGIN: True
+//Group-Tittle
+#Noticias: True
+#Deportes: True
+#Infantiles: True
+#Series: True
+#Musica: True
+#tvg-lock: True
+#ID (Silvina230573diaz@gmail.com:12345678)
+>
+
+<User
+#INF-USER:familiarocio@gmail.com
+#INFDISPLAY-NAME: Flia. Gonzalez
+#USERPIC: https://github.com/Jcluis5847/userpic/blob/main/Silvina230573diaz@gmail.com.jpeg?raw=true
+#ESTADO: activado
+#DIRIP: allip
+#EXPI: 23:59 31/12/2050
+#AUTO-LOGIN: True
+//Group-Tittle
+#Noticias: True
+#Deportes: True
+#Infantiles: True
+#Series: True
+#Musica: True
+#tvg-lock: True
+#ID (familiarocio@gmail.com:12345678)
+>
+
