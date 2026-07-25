@@ -239,9 +239,9 @@
 #INFDISPLAY-NAME: Brenda Mendoza
 #USERPIC: https://github.com/Jcluis5847/userpic/blob/main/steef3741@gmail.com.jpg?raw=true
 #ESTADO: activado
-#DIRIP: allip
+#DIRIP: 160.20.80.47
 #EXPI: 23:59 31/12/2050
-#AUTO-LOGIN: False
+#AUTO-LOGIN: True
 //Group-Tittle
 #Noticias: True
 #Deportes: True
