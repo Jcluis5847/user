@@ -203,9 +203,9 @@
 #INFDISPLAY-NAME: Matias
 #USERPIC: https://github.com/Jcluis5847/userpic/blob/main/mmaljac88@gmail.com.jpg?raw=true
 #ESTADO: activado
-#DIRIP: 201.179.29.217
+#DIRIP: 201.179.58.138
 #EXPI: 23:59 31/12/2050
-#AUTO-LOGIN: False
+#AUTO-LOGIN: True
 //Group-Tittle
 #Noticias: True
 #Deportes: True
