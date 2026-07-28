@@ -59,9 +59,9 @@
 #INFDISPLAY-NAME: Leandro Malespina
 #USERPIC: https://github.com/Jcluis5847/userpic/blob/main/malespinaleandro37@gmail.com.jpg?raw=true
 #ESTADO: activado
-#DIRIP: allip
+#DIRIP: 45.186.25.187
 #EXPI: 23:59 31/12/2050
-#AUTO-LOGIN: False
+#AUTO-LOGIN: True
 //Group-Tittle
 #Noticias: True
 #Deportes: True
@@ -69,7 +69,7 @@
 #Series: True
 #Musica: True
 #tvg-lock: True
-#ID (:)
+#ID (malespinaleandro37@gmail.com:12345678)
 >
 
 <User
