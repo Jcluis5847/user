@@ -113,9 +113,9 @@
 #INFDISPLAY-NAME: Laura Garcia
 #USERPIC: https://github.com/Jcluis5847/userpic/blob/main/lore93373@gmail.com.jpg?raw=true
 #ESTADO: activado
-#DIRIP: allip
+#DIRIP: 186.158.12.63
 #EXPI: 23:59 31/12/2050
-#AUTO-LOGIN: False
+#AUTO-LOGIN: True
 //Group-Tittle
 #Noticias: True
 #Deportes: True
