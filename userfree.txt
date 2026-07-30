@@ -131,9 +131,9 @@
 #INFDISPLAY-NAME: Familia
 #USERPIC: https://github.com/Jcluis5847/userpic/blob/main/Familia.jpg?raw=true
 #ESTADO: activado
-#DIRIP: allip
+#DIRIP: 181.116.43.195
 #EXPI: 23:59 31/12/2050
-#AUTO-LOGIN: False
+#AUTO-LOGIN: True
 //Group-Tittle
 #Noticias: True
 #Deportes: True
