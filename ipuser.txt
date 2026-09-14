@@ -19,6 +19,26 @@
 #tvg-lock: True
 #pinlock: 5847
 >
+
+//Leandro Malespina
+<User
+#DIRIP: 181.113.47.202
+#INFDISPLAY-NAME: Leandro Malespina
+#USERPIC: https://github.com/Jcluis5847/userpic/blob/main/malespinaleandro37@gmail.com.jpg?raw=true
+#ESTADO: activo
+#PLAYLIST: 1
+#EXPI: 23:59 31/12/2027
+//Group-Tittle
+#News: True
+#Sports: True
+#Kids: True
+#Series: True
+#Music: True
+#tvg-lock: True
+#pinlock: 1988
+>
+
+
 //Usuario de prueba
 <User
 #INF-USER:Test
