@@ -23,9 +23,9 @@
 #INFDISPLAY-NAME:Usuario de Pruebas
 #USERPIC: https://github.com/Jcluis5847/userpic/blob/main/naniel-@hotmail.com.jpg?raw=true
 #ESTADO: activado
-#DIRIP: allip
+#DIRIP: 186.158.248.229
 #EXPI: 12:00 30/12/2026
-#AUTO-LOGIN: False
+#AUTO-LOGIN: True
 //Group-Tittle
 #Noticias: True
 #Deportes: false
