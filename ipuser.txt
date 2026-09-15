@@ -20,6 +20,26 @@
 #pinlock: 5847
 >
 
+
+//Luis
+<User
+#DIRIP: 181.116.43.176
+#INFDISPLAY-NAME: Vicky
+#USERPIC: https://github.com/Jcluis5847/userpic/blob/main/luismdp8@gmail.com.png?raw=true
+#ESTADO: activo
+#PLAYLIST: 1
+#EXPI: 12:00 31/12/2999
+//Group-Tittle
+#News: True
+#Sports: True
+#Kids: True
+#Series: True
+#Music: True
+#tvg-lock: True
+#pinlock: 5132
+>
+
+
 //Leandro Malespina
 <User
 #DIRIP: 181.116.47.202
