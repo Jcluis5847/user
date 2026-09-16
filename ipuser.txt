@@ -27,7 +27,7 @@
 <User
 #IDUSER: 40632646
 #DIRIP: 181.116.43.176
-#INFDISPLAY-NAME: Vicky
+#INFDISPLAY-NAME: Victoria Mondejar
 #USERPIC: https://github.com/Jcluis5847/userpic/blob/main/vicky.jpeg?raw=true
 #ESTADO: activo
 #PLAYLIST: 1
