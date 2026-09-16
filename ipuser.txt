@@ -25,6 +25,7 @@
 
 //Victoria
 <User
+#IDUSER: 40632646
 #DIRIP: 181.116.43.176
 #INFDISPLAY-NAME: Vicky
 #USERPIC: https://github.com/Jcluis5847/userpic/blob/main/luismdp8@gmail.com.png?raw=true
@@ -39,6 +40,7 @@
 #Music: True
 #tvg-lock: True
 #pinlock: 5132
+#newdevice: False
 >
 
 
