@@ -5,7 +5,7 @@
 //Luis
 <User
 #IDUSER: 40944677
-#DIRIP: 181.116.47.34
+#DIRIP:
 #INFDISPLAY-NAME: Jose Luis
 #USERPIC: https://github.com/Jcluis5847/userpic/blob/main/luismdp8@gmail.com.png?raw=true
 #ESTADO: activo
@@ -19,6 +19,7 @@
 #Music: True
 #tvg-lock: True
 #pinlock: 5847
+#newdevice: True
 >
 
 
