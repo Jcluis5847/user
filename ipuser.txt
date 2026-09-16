@@ -83,3 +83,26 @@
 #pinlock: 1299
 #newdevice: True
 >
+
+
+
+//Familia Andrea y Daniel alzogaray
+<User
+#IDUSER: 33662528
+#DIRIP: 181.116.47.56
+#INFDISPLAY-NAME: Andrea Gisela Garcia
+#USERPIC: 
+#ESTADO: activo
+#PLAYLIST: 1
+#EXPI: 23:59 31/12/2030
+//Group-Tittle
+#News: True
+#Sports: True
+#Kids: True
+#Series: True
+#Music: True
+#tvg-lock: True
+#pinlock: 8929
+#newdevice: True
+>
+
