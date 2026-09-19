@@ -106,3 +106,22 @@
 #newdevice: True
 >
 
+//Rodrigo
+<User
+#IDUSER: 44218380
+#DIRIP: 201.178.226.111
+#INFDISPLAY-NAME: Rodrigo Pavon
+#USERPIC: https://github.com/Jcluis5847/userpic/blob/main/Rodritorres.jpg?raw=true
+#ESTADO: activo
+#PLAYLIST: 1
+#EXPI: 12:00 31/12/2030
+//Group-Tittle
+#News: True
+#Sports: True
+#Kids: True
+#Series: True
+#Music: True
+#tvg-lock: True
+#pinlock: 1302
+#newdevice: True
+>
