@@ -9,7 +9,7 @@
 #INFDISPLAY-NAME: Jose Luis
 #USERPIC: https://github.com/Jcluis5847/userpic/blob/main/luismdp8@gmail.com.png?raw=true
 #ESTADO: activo
-#PLAYLIST: https://raw.githubusercontent.com/tokio14-dot/prrr/a22dbd0c287039456a4ebed712db347a84caca22/canales.m3u
+#PLAYLIST: "https://raw.githubusercontent.com/tokio14-dot/prrr/a22dbd0c287039456a4ebed712db347a84caca22/canales.m3u"
 #EXPI: 12:00 31/12/2030
 //Group-Tittle
 #News: True
