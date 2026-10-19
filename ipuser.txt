@@ -125,3 +125,23 @@
 #pinlock: 1302
 #newdevice: True
 >
+
+//Matías Nicolás Maljac
+<User
+#IDUSER: 34092878
+#DIRIP:
+#INFDISPLAY-NAME: Matías Maljac
+#USERPIC: https://raw.githubusercontent.com/Jcluis5847/userpic/refs/heads/main/mmaljac88%40gmail.com.jpg
+#ESTADO: activo
+#PLAYLIST: 1
+#EXPI: 12:00 31/12/2030
+//Group-Tittle
+#News: True
+#Sports: True
+#Kids: True
+#Series: True
+#Music: True
+#tvg-lock: True
+#pinlock: 1803
+#newdevice: True
+>
